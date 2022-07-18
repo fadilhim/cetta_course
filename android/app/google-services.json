@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822500718487",
+    "firebase_url": "https://cettacourse-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cettacourse",
+    "storage_bucket": "cettacourse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822500718487:android:520b19e1a8acf2a338f6d2",
+        "android_client_info": {
+          "package_name": "com.dikara.cetta_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822500718487-dnek8rj8h6mcclhlbbspj3san0iq056v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1hDoTLsG3fUe-US6bMBSfbih-0lVV8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822500718487-dnek8rj8h6mcclhlbbspj3san0iq056v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
